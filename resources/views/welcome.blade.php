@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                Pizza house App
+                Pizza-House
                 </div>
 
                 <div class="links">
