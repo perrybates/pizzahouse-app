@@ -1,1 +1,1 @@
-A simple pizza web application to showcase basic concepts in laravel
+Adding a feature for customers
