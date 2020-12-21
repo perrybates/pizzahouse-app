@@ -13,10 +13,10 @@
 
     </ul>
 
-    <form action="/pizzas/{{ $pizza->id }}" method="POST">
+    <form action="{{ route('pizzas.destory', $pizza->id) }}" method="POST">
         @csrf
         @method('DELETE')
-        <button>Complete Order</button>
+        <button>Delete order</button>
     </form>
 </div>
 
